@@ -1,9 +1,7 @@
 the red planet
 men are from here
 they're weird
-<<<<<<< HEAD
 also a candy
 more mars
 =======
 two moons
->>>>>>> 4eb0b30... moons
